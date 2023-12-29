@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "2647f957"
+  },
+  "intro.qmd": {
+    "intro.html": "4d568126"
+  },
+  "summary.qmd": {
+    "summary.html": "043950ce"
+  },
+  "references.qmd": {
+    "references.html": "d1a37681"
+  },
+  "background.qmd": {
+    "background.html": "75c3b71d"
+  },
+  "considerations.qmd": {
+    "considerations.html": "dc339f2a"
+  },
+  "example.qmd": {
+    "example.html": "db327842"
+  },
+  "tutorial.qmd": {
+    "tutorial.html": "447f11cf"
+  }
+}
