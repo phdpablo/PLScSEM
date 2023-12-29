@@ -4,6 +4,9 @@ project:
 execute: 
   #echo: false
   warning: false
+#filters:
+  #- webr
+  #- abstract-section
 book:
   title: "PLS-SEM Interactive Tutorial"
   subtitle: "Step-by-Step with cSEM package"
